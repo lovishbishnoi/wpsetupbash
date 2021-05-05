@@ -18,3 +18,5 @@ bash wpsetup.sh ./WP_ROOT_FOLDER
 ```
 
 Change the name of WP_ROOT_FOLDER with your folder name
+
+*STILL IN DEVELOPMENT*
