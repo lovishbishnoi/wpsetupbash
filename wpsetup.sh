@@ -9,7 +9,7 @@ ownerchanges() {
 } 
 
 permissionchanges() {
-  sudo chmod -R 777 "$folderName"
+  sudo chmod -R 755 "$folderName"
 }
 
 removewpconfigsample() {
